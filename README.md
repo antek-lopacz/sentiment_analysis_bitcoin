@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Quantifying Investor Sentiment: A Machine Learning Analysis of Bitcoin-Related Reddit Posts
 Bachelor thesis repository
 
 
